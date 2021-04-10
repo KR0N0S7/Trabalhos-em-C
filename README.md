@@ -1,5 +1,6 @@
-# Livro de receitas :man_cook:
+# Programa Básico em C :computer:
 
-Olá! Bem vindo ao meu livro de receitas. :wave:
+Olá! Bem vindo ao meu livro de programas básicos em C. :wave:
 
-- Strotrogonoff de frango
+- Controlador de Estoque
+
